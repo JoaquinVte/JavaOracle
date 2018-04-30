@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/Alumno/Downloads/ojdbc7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alumno/Downloads/miglayout-3.7.jar"/>
+	<classpathentry kind="lib" path="/home/joaalsai/Descargas/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="/home/joaalsai/Descargas/miglayout-3.7.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

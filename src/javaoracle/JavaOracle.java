@@ -37,7 +37,7 @@ public class JavaOracle {
     {
         try{
             Class.forName("oracle.jdbc.driver.OracleDriver");
-            String BaseDeDatos = "jdbc:oracle:thin:@localhost:1521:ORCL";
+            String BaseDeDatos = "jdbc:oracle:thin:@192.168.1.42:1521:ORCL";
             conexion= DriverManager.getConnection(BaseDeDatos,"MUNDIAL","1234");
             if(conexion!=null)
                 System.out.println("Conexión realizada con éxisto a MUNDIAL");
